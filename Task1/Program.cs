@@ -1,11 +1,14 @@
-﻿int firstNumber = 7;
-int secondNumber = 3;
+﻿System.Console.Write ("Введите первое число");
+int firstNumber = Convert.ToInt32 (Console.ReadLine());
+
+System.Console.Write ("Введите второе число");
+int secondNumber = Convert.ToInt32 (Console.ReadLine());
 
 if (firstNumber == secondNumber * secondNumber)
 {
-    System.Console.WriteLine("Yes");
+    Console.WriteLine ($"a = {firstNumber}, b = {secondNumber} => да");
 }
 else
 {
-    System.Console.WriteLine("No");
+    Console.WriteLine ($"a = {firstNumber}, b = {secondNumber} => нет");
 }

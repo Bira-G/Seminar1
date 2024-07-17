@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bira-\\Desktop\\Seminar1\\task1\\task1.csproj": {}
+    "C:\\Users\\bira-\\Desktop\\Seminar1\\Task1\\task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bira-\\Desktop\\Seminar1\\task1\\task1.csproj": {
+    "C:\\Users\\bira-\\Desktop\\Seminar1\\Task1\\task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bira-\\Desktop\\Seminar1\\task1\\task1.csproj",
+        "projectUniqueName": "C:\\Users\\bira-\\Desktop\\Seminar1\\Task1\\task1.csproj",
         "projectName": "task1",
-        "projectPath": "C:\\Users\\bira-\\Desktop\\Seminar1\\task1\\task1.csproj",
+        "projectPath": "C:\\Users\\bira-\\Desktop\\Seminar1\\Task1\\task1.csproj",
         "packagesPath": "C:\\Users\\bira-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bira-\\Desktop\\Seminar1\\task1\\obj\\",
+        "outputPath": "C:\\Users\\bira-\\Desktop\\Seminar1\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bira-\\AppData\\Roaming\\NuGet\\NuGet.Config"
